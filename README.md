@@ -1,4 +1,4 @@
-# skytours
+# Sky Tours
 An information-based web application that allows for availability and accessibility of adequate and reliable information in real-time about the Kenya's tourism sector.
 Version 1,2022.
 
